@@ -6,7 +6,7 @@ int distPin=0;
 
 void setup()
 {
-    jeremyServo.attach(servoPin);
+    shriasServo.attach(servoPin);
 }
 void loop()
 {
